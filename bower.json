@@ -1,0 +1,19 @@
+{
+  "name": "bower-introduction",
+  "authors": [
+    "slomek <pslomka@pslomka.com>"
+  ],
+  "description": "A simple example of Bower",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}

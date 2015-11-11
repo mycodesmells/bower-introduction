@@ -1,0 +1,9 @@
+.buttons {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#happiness-indicator {
+    font-size: 10rem;
+    display: none;
+}
